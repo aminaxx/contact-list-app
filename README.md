@@ -2,7 +2,7 @@ This project is created for managing the contacts over the web application.
 
 Adding, editing and deleting them are the main functions.
 
-# Quich overview
+## Quich overview
 
 ```sh
 npx create-react-app contact-app
